@@ -1,0 +1,5 @@
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\Задание 3\bin\Debug\Задание 3.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\Задание 3\bin\Debug\Задание 3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\Задание 3\bin\Debug\Задание 3.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\Задание 3\obj\Debug\Задание 3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\Задание 3\obj\Debug\Задание 3.pdb

@@ -1,0 +1,11 @@
+c:\users\добро\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\добро\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\добро\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\добро\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\добро\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 1\ConsoleApplication3\obj\Debug\Задание 1.csprojResolveAssemblyReference.cache
