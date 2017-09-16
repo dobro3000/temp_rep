@@ -1,0 +1,5 @@
+c:\users\добро\documents\visual studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.exe.config
+c:\users\добро\documents\visual studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.exe
+c:\users\добро\documents\visual studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.pdb
+c:\users\добро\documents\visual studio 2012\Projects\Работа со строками\Работа со строками\obj\Debug\Работа со строками.exe
+c:\users\добро\documents\visual studio 2012\Projects\Работа со строками\Работа со строками\obj\Debug\Работа со строками.pdb

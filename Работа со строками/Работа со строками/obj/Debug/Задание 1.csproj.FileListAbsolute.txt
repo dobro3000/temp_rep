@@ -1,0 +1,6 @@
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\obj\Debug\Работа со строками.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\obj\Debug\Работа со строками.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\bin\Debug\Работа со строками.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Работа со строками\Работа со строками\obj\Debug\Задание 1.csprojResolveAssemblyReference.cache
