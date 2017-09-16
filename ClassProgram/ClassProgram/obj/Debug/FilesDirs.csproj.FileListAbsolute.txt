@@ -1,0 +1,12 @@
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll.config
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.xml
+H:\ClassProgram\ClassProgram\obj\Debug\FilesDirs.dll
+H:\ClassProgram\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.pdb

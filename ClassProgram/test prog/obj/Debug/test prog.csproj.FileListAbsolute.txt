@@ -1,0 +1,9 @@
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.exe.config
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.exe
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.exe
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.pdb
