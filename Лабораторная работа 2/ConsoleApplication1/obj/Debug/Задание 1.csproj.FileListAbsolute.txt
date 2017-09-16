@@ -1,0 +1,5 @@
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
