@@ -1,0 +1,6 @@
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\bin\Debug\VirusStopProcess.exe.config
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\obj\Debug\VirusStopProcess.csprojResolveAssemblyReference.cache
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\bin\Debug\VirusStopProcess.exe
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\bin\Debug\VirusStopProcess.pdb
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\obj\Debug\VirusStopProcess.exe
+c:\users\добро\documents\visual studio 2012\Projects\VirusStopProcess\VirusStopProcess\obj\Debug\VirusStopProcess.pdb
