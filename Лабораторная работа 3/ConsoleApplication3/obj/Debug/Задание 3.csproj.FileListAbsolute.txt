@@ -1,0 +1,6 @@
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\obj\Debug\Задание 3.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\obj\Debug\Задание 4.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Добро\Documents\Visual Studio 2012\Projects\Лабораторная работа 3\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
